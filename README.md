@@ -116,7 +116,7 @@ A dynamic e-commerce concept for Nike, featuring bold typography, sleek product 
 
 <br>
 
-<a href="https://malakehabfarid.github.io/nike.github.io/">
+<a href="https://malakehabfarid.github.io/Nike.github.io/">
   <img
     src="https://img.shields.io/badge/↗%20Live%20Demo-6F4E37?style=for-the-badge&labelColor=E8DCC8"
     alt="Nike Live Demo"
