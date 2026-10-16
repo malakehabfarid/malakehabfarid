@@ -85,11 +85,10 @@ I'm currently focusing on Front-End Development, creating responsive interfaces 
 <td width="42%" valign="middle" align="center">
 
   <img
-    src="projects images/gym.png"
+    src="YOUR_GYM_PLUS_IMAGE_PATH"
     alt="Gym Plus Project Preview"
     width="100%"
   />
-  
 
 </td>
 
