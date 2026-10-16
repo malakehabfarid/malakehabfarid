@@ -71,21 +71,168 @@ I'm currently focusing on Front-End Development, creating responsive interfaces 
 ---
 
 ---
-
 ## 🤎 03 — Featured Projects
 
 <p align="center">
   A collection of my projects, creativity, and front-end development journey.
 </p>
 
-<h3>✦ 0 / Gym Plus</h3>
+<h3>✦ 01 / Nike Store</h3>
 
 <table width="100%" border="1" cellpadding="12" cellspacing="0">
 <tr>
 <td width="42%" valign="middle" align="center">
 
   <img
-    src="YOUR_GYM_PLUS_IMAGE_PATH"
+    src="projects images/nike.png"
+    alt="Nike Project Preview"
+    width="100%"
+  />
+
+</td>
+
+<td width="58%" valign="top">
+
+<h3>⚡ High-Performance Footwear & Apparel</h3>
+
+A dynamic e-commerce concept for Nike, featuring bold typography, sleek product showcases, interactive filtering, and a modern athletic aesthetic.
+
+<br>
+<strong>Highlights</strong>
+
+- Immersive product showcase and featured collections.
+- Athletic and energetic modern UI design.
+- Responsive layout optimized for mobile shopping.
+- Interactive elements and clean product cards.
+
+<strong>Built With</strong>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML-E8DCC8?style=flat-square&logo=html5&logoColor=6F4E37" />
+<img src="https://img.shields.io/badge/CSS-E8DCC8?style=flat-square&logo=css3&logoColor=6F4E37" />
+<img src="https://img.shields.io/badge/Bootstrap-E8DCC8?style=flat-square&logo=bootstrap&logoColor=6F4E37" />
+<img src="https://img.shields.io/badge/JavaScript-E8DCC8?style=flat-square&logo=javascript&logoColor=6F4E37" />
+
+<br>
+
+<a href="https://malakehabfarid.github.io/nike.github.io/">
+  <img
+    src="https://img.shields.io/badge/↗%20Live%20Demo-6F4E37?style=for-the-badge&labelColor=E8DCC8"
+    alt="Nike Live Demo"
+  />
+</a>
+
+</td>
+</tr>
+</table>
+
+<h3>✦ 02 / Dine Out Restaurant</h3>
+
+<table width="100%" border="1" cellpadding="12" cellspacing="0">
+<tr>
+<td width="42%" valign="middle" align="center">
+
+  <img
+    src="projects images/dineout.png"
+    alt="Dine Out Restaurant Project Preview"
+    width="100%"
+  />
+
+</td>
+
+<td width="58%" valign="top">
+
+<h3>🍽️ Fine Dining & Culinary Excellence</h3>
+
+A sophisticated restaurant website template featuring mouth-watering food galleries, reservation forms, chef specials, and structured menus.
+
+<br>
+<strong>Highlights</strong>
+
+- Elegant presentation of food menus and categories.
+- Table reservation system interface.
+- Chef's specials and customer feedback highlights.
+- Fully responsive layout with smooth navigation.
+
+<strong>Built With</strong>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML-E8DCC8?style=flat-square&logo=html5&logoColor=6F4E37" />
+<img src="https://img.shields.io/badge/CSS-E8DCC8?style=flat-square&logo=css3&logoColor=6F4E37" />
+<img src="https://img.shields.io/badge/Bootstrap-E8DCC8?style=flat-square&logo=bootstrap&logoColor=6F4E37" />
+
+<br>
+
+<a href="https://malakehabfarid.github.io/Dine-Out.github.io/">
+  <img
+    src="https://img.shields.io/badge/↗%20Live%20Demo-6F4E37?style=for-the-badge&labelColor=E8DCC8"
+    alt="Dine Out Live Demo"
+  />
+</a>
+
+</td>
+</tr>
+</table>
+
+<h3>✦ 03 / Kaffa Coffee Shop</h3>
+
+<table width="100%" border="1" cellpadding="12" cellspacing="0">
+<tr>
+<td width="42%" valign="middle" align="center">
+
+  <img
+    src="projects images/kaffa.png"
+    alt="Kaffa Coffee Shop Project Preview"
+    width="100%"
+  />
+
+</td>
+
+<td width="58%" valign="top">
+
+<h3>☕ Cozy & Modern Coffee Experience</h3>
+
+An elegant and warm coffee shop website designed to highlight artisanal coffee menus, cozy atmospheres, special offers, and online ordering options.
+
+<br>
+<strong>Highlights</strong>
+
+- Warm aesthetic with coffee-inspired color schemes.
+- Interactive menu layout and pricing cards.
+- Customer reviews and location/booking section.
+- Responsive design optimized for mobile and desktop.
+
+<strong>Built With</strong>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML-E8DCC8?style=flat-square&logo=html5&logoColor=6F4E37" />
+<img src="https://img.shields.io/badge/CSS-E8DCC8?style=flat-square&logo=css3&logoColor=6F4E37" />
+<img src="https://img.shields.io/badge/Bootstrap-E8DCC8?style=flat-square&logo=bootstrap&logoColor=6F4E37" />
+
+<br>
+
+<a href="https://malakehabfarid.github.io/kaffa.github.io/">
+  <img
+    src="https://img.shields.io/badge/↗%20Live%20Demo-6F4E37?style=for-the-badge&labelColor=E8DCC8"
+    alt="Kaffa Live Demo"
+  />
+</a>
+
+</td>
+</tr>
+</table>
+
+<h3>✦ 04 / Gym Plus</h3>
+
+<table width="100%" border="1" cellpadding="12" cellspacing="0">
+<tr>
+<td width="42%" valign="middle" align="center">
+
+  <img
+    src="projects images/gym.png"
     alt="Gym Plus Project Preview"
     width="100%"
   />
@@ -112,11 +259,10 @@ A fitness website concept designed to present workout-related content through bo
 
 <img src="https://img.shields.io/badge/HTML-E8DCC8?style=flat-square&logo=html5&logoColor=6F4E37" />
 <img src="https://img.shields.io/badge/CSS-E8DCC8?style=flat-square&logo=css3&logoColor=6F4E37" />
-<img src="https://img.shields.io/badge/Bootstrap-E8DCC8?style=flat-square&logo=bootstrap&logoColor=6F4E37" />
 
 <br>
 
-<a href="YOUR_GYM_PLUS_DEMO_LINK">
+<a href="https://malakehabfarid.github.io/gymplus.github.io/">
   <img
     src="https://img.shields.io/badge/↗%20Live%20Demo-6F4E37?style=for-the-badge&labelColor=E8DCC8"
     alt="Gym Plus Live Demo"
@@ -127,6 +273,53 @@ A fitness website concept designed to present workout-related content through bo
 </tr>
 </table>
 
+<h3>✦ 05 / Fokir </h3>
+
+<table width="100%" border="1" cellpadding="12" cellspacing="0">
+<tr>
+<td width="42%" valign="middle" align="center">
+
+  <img
+    src="projects images/fokir.png"
+    alt="Fokir Portfolio Project Preview"
+    width="100%"
+  />
+
+</td>
+
+<td width="58%" valign="top">
+
+<h3>💼 Professional Personal Portfolio</h3>
+
+A clean and professional portfolio website template designed to showcase personal skills, services, portfolio items, and contact information with a sleek design.
+
+<br>
+<strong>Highlights</strong>
+
+- Clean and professional layout for personal branding.
+- Services, portfolio gallery, and testimonials sections.
+- Fully responsive design across devices.
+- Contact form and social media integration.
+
+<strong>Built With</strong>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML-E8DCC8?style=flat-square&logo=html5&logoColor=6F4E37" />
+<img src="https://img.shields.io/badge/CSS-E8DCC8?style=flat-square&logo=css3&logoColor=6F4E37" />
+
+<br>
+
+<a href="https://malakehabfarid.github.io/fokir.github.io/">
+  <img
+    src="https://img.shields.io/badge/↗%20Live%20Demo-6F4E37?style=for-the-badge&labelColor=E8DCC8"
+    alt="Fokir Live Demo"
+  />
+</a>
+
+</td>
+</tr>
+</table>
 <br><br>
 
 <div align="center">
@@ -142,7 +335,7 @@ A fitness website concept designed to present workout-related content through bo
 
   <br>
 
-  <a href="YOUR_LINKEDIN_PROFILE_LINK">
+  <a href="https://www.linkedin.com/in/malak-ehab-012009399/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-A67B5B?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn Profile"
@@ -229,7 +422,7 @@ exchange ideas, learn from others, and explore new opportunities.
   <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-6F4E37?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/malak-ehab-012009399/">
   <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-A67B5B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
