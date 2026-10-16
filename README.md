@@ -1,8 +1,6 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=E8DCC8&height=180&section=header&text=Malak%20Ehab&fontSize=50&fontColor=6F4E37&animation=fadeIn&fontAlignY=45&desc=CS%20%26%20AI%20Student%20%7C%20Front-End%20Developer&descAlignY=70&descSize=16" width="100%" />
   
-  <h3>I'm Malak Ehab Farid</h3>
+  <h1 align="center">I'm Malak Ehab.🤎</h1>
   <p>
     Computer Science & Artificial Intelligence Student
     <br>
@@ -133,7 +131,7 @@ A fitness website concept designed to present workout-related content through bo
 
 <div align="center">
 
-  <h3>✨ More projects. More ideas. More to discover.</h3>
+  <h3>>🤎 More projects. More ideas. More to discover.</h3>
 
   <a href="https://github.com/malakehabfarid?tab=repositories">
     <img
@@ -142,7 +140,7 @@ A fitness website concept designed to present workout-related content through bo
     />
   </a>
 
-  <br><br>
+  <br>
 
   <a href="YOUR_LINKEDIN_PROFILE_LINK">
     <img
@@ -158,7 +156,7 @@ A fitness website concept designed to present workout-related content through bo
 
 <div align="left">
 
-  <h3>From Design to Development ✨</h3>
+  <h3>From Design to Development </h3>
 
 </div>
 
