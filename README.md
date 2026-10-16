@@ -38,7 +38,7 @@ I'm currently focusing on Front-End Development, creating responsive interfaces 
 
 ## 🤎 02 — My Tech Stack
 
-### ✦ Front-End Development
+###  Front-End Development
 
 <div align="center">
 
@@ -46,7 +46,7 @@ I'm currently focusing on Front-End Development, creating responsive interfaces 
 
 </div>
 
-### ✦ Tools & Workflow
+###  Tools & Workflow
 
 <div align="center">
 
@@ -54,7 +54,7 @@ I'm currently focusing on Front-End Development, creating responsive interfaces 
 
 </div>
 
-### ✦ Technologies I Use
+###  Technologies I Use
 
 | Technology | Purpose |
 |:--|:--|
@@ -77,7 +77,7 @@ I'm currently focusing on Front-End Development, creating responsive interfaces 
   A collection of my projects, creativity, and front-end development journey.
 </p>
 
-<h3>✦ 01 / Nike Store</h3>
+<h3>01 / Nike Store</h3>
 
 <table width="100%" border="1" cellpadding="12" cellspacing="0">
 <tr>
@@ -127,7 +127,7 @@ A dynamic e-commerce concept for Nike, featuring bold typography, sleek product 
 </tr>
 </table>
 
-<h3>✦ 02 / Dine Out Restaurant</h3>
+<h3>02 / Dine Out Restaurant</h3>
 
 <table width="100%" border="1" cellpadding="12" cellspacing="0">
 <tr>
@@ -176,7 +176,7 @@ A sophisticated restaurant website template featuring mouth-watering food galler
 </tr>
 </table>
 
-<h3>✦ 03 / Kaffa Coffee Shop</h3>
+<h3>03 / Kaffa Coffee Shop</h3>
 
 <table width="100%" border="1" cellpadding="12" cellspacing="0">
 <tr>
@@ -225,7 +225,7 @@ An elegant and warm coffee shop website designed to highlight artisanal coffee m
 </tr>
 </table>
 
-<h3>✦ 04 / Gym Plus</h3>
+<h3>04 / Gym Plus</h3>
 
 <table width="100%" border="1" cellpadding="12" cellspacing="0">
 <tr>
@@ -273,7 +273,7 @@ A fitness website concept designed to present workout-related content through bo
 </tr>
 </table>
 
-<h3>✦ 05 / Fokir </h3>
+<h3> 05 / Fokir </h3>
 
 <table width="100%" border="1" cellpadding="12" cellspacing="0">
 <tr>
@@ -426,10 +426,8 @@ exchange ideas, learn from others, and explore new opportunities.
   <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-A67B5B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 ### Keep Learning. Keep Building. Keep Growing. 🤎
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8DCC8&height=8&section=footer" width="100%" />
 
 </div>
